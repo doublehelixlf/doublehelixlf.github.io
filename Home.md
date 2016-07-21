@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Home
 ---
 
 Our lab studies intratumoral heterogeneity.
